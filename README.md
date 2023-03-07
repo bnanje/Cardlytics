@@ -1,0 +1,3 @@
+*.nanje
+*.js @fredgohsman
+*.md 
